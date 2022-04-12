@@ -1,5 +1,6 @@
-#Sms-Retriever-API
+# Sms-Retriever-API
 
+```console
 #Run the command
 #
 #chmod u+x sms_retriever_hash_der.sh
@@ -108,3 +109,4 @@ echo "First 8 bytes encoded by base64: $base64output"
 echo
 echo "SMS Retriever hash code:  $base64output"
 echo
+```
